@@ -1,0 +1,146 @@
+.container {
+  margin: 0px 175px;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(/header.848e1042.png);
+}
+
+.header-line {
+  padding-top: 36px;
+  justify-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nav {
+  text-align: center;
+}
+
+.header-logo {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.nav-item {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  padding-left: 39px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.phone {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #FFFFFF;
+}
+.phone a {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.header-title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  color: #00FEFF;
+  padding-top: 76px;
+}
+
+.servis-title {
+  padding-top: 57px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  color: #00FEFF;
+}
+
+.servis-prise {
+  padding-top: 5px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.prise-span-1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.prise-span-2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.servis-footr {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.servis-buton {
+  padding-top: 28px;
+  padding-bottom: 70px;
+}
+
+.btn-form {
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 14px 22px;
+  background: #00FEFF;
+  color: #002047;
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+          transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.servis-about {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+/*# sourceMappingURL=/style1.d1e583b7.css.map */
